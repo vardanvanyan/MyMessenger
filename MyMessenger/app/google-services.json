@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "478891572506",
+    "firebase_url": "https://mymassanger-bb0fa.firebaseio.com",
+    "project_id": "mymassanger-bb0fa",
+    "storage_bucket": "mymassanger-bb0fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478891572506:android:c582902402f172d4",
+        "android_client_info": {
+          "package_name": "com.example.mymassanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478891572506-pv43qhs00ie9qah037u6qo91nrmcqvc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymassanger",
+            "certificate_hash": "456dce8efc8fc763853240bfc5d2d681259b98e0"
+          }
+        },
+        {
+          "client_id": "478891572506-rppa26nh7uv1dfc9psvoaci3j7e113f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAftfa8x3pnhKJIVkR9vI_ibyJBBkEfB3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478891572506-rppa26nh7uv1dfc9psvoaci3j7e113f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

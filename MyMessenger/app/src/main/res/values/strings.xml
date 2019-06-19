@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="registration">registration</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="mail">mail</string>
+    <string name="repassword">repassword</string>
+    <string name="exit">exit</string>
+    <string name="Invalide_name">Invalide name</string>
+    <string name="invalide_surname">Invalide Surname</string>
+    <string name="Invalide_mail">Invalide mail</string>
+    <string name="invalide_login">Creat login min 4 simvole</string>
+    <string name="invalide_pass">Invalid password</string>
+    <string name="invalide_repass">Incorrect_repass</string>
+    <string name="toolbar_header_name_login">LOGIN</string>
+</resources>
